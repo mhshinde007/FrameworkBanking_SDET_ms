@@ -1,0 +1,6 @@
+com\SdetBanking\TestCases\BaseClass.class
+com\SdetBanking\PageObjects\LoginPage.class
+com\SdetBanking\Utilities\ReadConfig.class
+com\SdetBanking\TestCases\TC_LoginTest_001.class
+com\SdetBanking\TestCases\TC_LoginTest_DDT_002.class
+com\SdetBanking\Utilities\XLUtils.class

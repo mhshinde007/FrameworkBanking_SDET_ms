@@ -40,5 +40,11 @@ public class TC_LoginTest_001 extends BaseClass {
 	{
 		
 	}
+	
+	@Test
+	public void loginTest_1_br1() 
+	{
+		
+	}
 
 }
